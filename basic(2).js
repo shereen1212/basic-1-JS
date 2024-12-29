@@ -1,0 +1,21 @@
+document.write(typeof 100);
+document.write(typeof 73.9);
+document.write(typeof NaN);
+document.write(typeof "water");
+document.write(typeof false);
+document.write(typeof 9 != 11 );
+document.write(typeof "Orang" + "e");
+document.write(typeof  "Orange" - "s" );
+document.write(typeof "4" + "8");
+document.write(typeof "4" - "8");
+document.write(typeof "name" + 3);
+document.write(typeof "name" - 3);
+document.write(typeof 82 * "word");
+document.write(typeof 1 + "hello");
+document.write(typeof "hello" + 1);
+document.write(typeof  1 + true );
+document.write(typeof "hello" + true);
+document.write(typeof typeof (Infinity));
+document.write(typeof 1 == '1');
+document.write(typeof 1 === '1');
+
